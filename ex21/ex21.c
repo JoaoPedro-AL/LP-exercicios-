@@ -19,7 +19,7 @@ int main (){
 
     litrosnecessarios = (comprimento*(numerodvoltas/(numerodreabastecimentos+1))/1000)/consumocomb;
 
-    printf("Serao necessarios %.2fL para o proximo reabastecimento", litrosnecessarios);
+    printf("Serao necessarios %.2fL para o proximo reabastecimento para abastecer o carro", litrosnecessarios);
 
 
 
