@@ -25,8 +25,5 @@ int main (){
     {
         printf("o valor de z e %i e a resposta C", z);
     }
-    
-    
-
 
 }
